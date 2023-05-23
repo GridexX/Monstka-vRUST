@@ -1,0 +1,6 @@
+uri: localhost:9092
+topic: do-avro
+group_id: do-group
+random_word_generator_api_url: https://random-word-api.herokuapp.com/word?lang=en
+partitions:
+  - 0
